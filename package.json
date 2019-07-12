@@ -1,6 +1,6 @@
 {
   "name": "markdownrender",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "markdown render",
   "main": "index.js",
   "scripts": {
