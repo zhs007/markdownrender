@@ -1,6 +1,6 @@
 {
   "name": "markdownrender",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "markdown render",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,11 @@
   },
   "homepage": "https://github.com/zhs007/markdownrender#readme",
   "dependencies": {
+    "commander": "^2.20.0",
     "markdown-it": "^9.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-google": "^0.13.0"
   }
 }
