@@ -21,7 +21,7 @@
   "homepage": "https://github.com/zhs007/markdownrender#readme",
   "dependencies": {
     "commander": "^2.20.0",
-    "markdown-it": "^9.0.0"
+    "markdown-it": "^12.3.2"
   },
   "devDependencies": {
     "eslint": "^6.0.1",
